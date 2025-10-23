@@ -1,4 +1,4 @@
-![HR Analytics Dashboard Preview](dashboard_preview.png)
+![HR Analytics Dashboard Preview](Screenshot 2025-10-24 013012.png)
 
 HR Analytics Dashboard (Excel Project)
 
