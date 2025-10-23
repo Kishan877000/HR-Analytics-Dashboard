@@ -1,3 +1,5 @@
+![HR Analytics Dashboard Preview](dashboard_preview.png)
+
 HR Analytics Dashboard (Excel Project)
 
 📊 Overview
